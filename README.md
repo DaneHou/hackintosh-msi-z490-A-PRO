@@ -1,0 +1,1 @@
+# hackintosh-msi-z490-A-PRO
